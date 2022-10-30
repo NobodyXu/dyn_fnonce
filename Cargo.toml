@@ -1,0 +1,15 @@
+[package]
+name = "dyn_fnonce"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Jiahao XU <Jiahao_XU@outlook.com>"]
+
+license = "MIT"
+description = "Type erasure for `FnOnce(T) -> U`."
+repository = "https://github.com/NobodyXu/dyn_fnonce.git"
+
+keywords = ["type-erasure", "FnOnce"]
+categories = ["no-std"]
+
+[dependencies]
